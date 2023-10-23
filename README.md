@@ -1,7 +1,11 @@
-# Yapılacaklar
+<h1> E- Ticaret Sitesi</h1>
 
--Statik header oluştur
+Sepete ekleme ve sepetten silme işlemlerinin yapılabildiği online e-ticaret sitesi
 
--Kullanıcı siteye girdikten sonra;
---Kategori verileri için istek at
---Gelen cevabı ekrana bas# e-ticaret
+<h2> Kullanılan Teknolojiler </h2>
+
+HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
+
+<h2> Çalışır halinin ekran kaydı </h2>
+
+![](e-ticaret.gif)
